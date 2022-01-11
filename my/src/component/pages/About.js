@@ -14,7 +14,7 @@ function About() {
         width: "250px",
         borderRadius: "5px",
         padding: "20px",
-        display: "flex",
+        display: "wrap",
         marginLeft: "auto",
         marginRight: "auto",
       };

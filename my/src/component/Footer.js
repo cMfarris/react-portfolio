@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer
       className="page-footer fixed-bottom font-small"
-      style={{ backgroundColor: "#CD5C5C" }}
+      style={{ backgroundColor: "black" }}
     >
       <div className="container">
         <ul className="list-unstyled list-inline text-center">
@@ -13,7 +13,7 @@ function Footer() {
               className="btn-floating btn-fb mx-1"
               href="https://github.com/cMfarris"
             >
-              <i className="fab fa-github" style={{ color: "black" }}>
+              <i className="fab fa-github" style={{ color: "white" }}>
                 {" "}
               </i>
             </a>
@@ -23,7 +23,7 @@ function Footer() {
               className="btn-floating btn-li mx-1"
               href="https://www.linkedin.com/in/celeste-farris-390999b9/"
             >
-              <i className="fab fa-linkedin-in" style={{ color: "black" }}>
+              <i className="fab fa-linkedin-in" style={{ color: "white" }}>
                 {" "}
               </i>
             </a>
@@ -35,7 +35,7 @@ function Footer() {
         © 2022 Copyright:
         <a
           href="https://github.com/cMfarris/react-portfolio"
-          style={{ color: "black" }}
+          style={{ color: "white" }}
         >
           {" "}
          Celeste Farris
